@@ -1,0 +1,26 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "description": "e2e testing with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DejanIlic89/cypress-automation.git"
+  },
+  "keywords": [
+    "cypress",
+    "e2e"
+  ],
+  "author": "Dejan Ilic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DejanIlic89/cypress-automation/issues"
+  },
+  "homepage": "https://github.com/DejanIlic89/cypress-automation#readme",
+  "devDependencies": {
+    "cypress": "^2.1.0"
+  }
+}
