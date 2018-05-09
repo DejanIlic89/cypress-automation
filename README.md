@@ -1,2 +1,2 @@
 # cypress-automation
-End-to-end testing with Cypress
+### End-to-end testing with Cypress
